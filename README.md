@@ -17,8 +17,9 @@ I'm *Miiao*. I love computers ;)
 
 ### Programming:
   - VB
-  - PascalABC.NET
+  - Pascal
   - Rust
+  - C (a little)
 
 ### Assembly:
   - FASM
